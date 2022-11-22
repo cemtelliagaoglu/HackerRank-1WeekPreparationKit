@@ -19,3 +19,4 @@ func timeConversion(s: String) -> String {
         return "\(hourString + 12)\(mPart)"
     }
 }
+
