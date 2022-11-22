@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Day1-MiniMaxSum'/>
+        <page name='Day1-PlusMinus'/>
+        <page name='Day1-TimeConversion'/>
+        <page name='Day1-MockTest'/>
+    </pages>
+</playground>
