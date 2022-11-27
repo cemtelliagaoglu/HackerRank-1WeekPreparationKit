@@ -8,5 +8,9 @@
         <page name='Day2-LonelyInteger'/>
         <page name='Day2-DiagonalDifference'/>
         <page name='Day2-CountingSort1'/>
+        <page name='Day3-ZigZagSequence'/>
+        <page name='Day3-TowerBreakers'/>
+        <page name='Day3-CaesarCipher'/>
+        <page name='Day3-PalindromeIndex'/>
     </pages>
 </playground>
